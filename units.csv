@@ -1,0 +1,208 @@
+name,leader,species,usage,class,personality,height,size,life,move,range,attack,defense,points,abilities,set,hexes
+Marro Warriors,utgar,marro,unique squad,warriors,wild,medium,4,1,6,6,2,3,50,[object Object],Master Set: Rise of the Valkyrie,1
+Deathwalker 9000,utgar,soulborg,unique hero,deathwalker,precise,large,7,1,5,7,4,9,140,[object Object],Master Set: Rise of the Valkyrie,1
+Izumi Samurai,einar,human,unique squad,samurai,disciplined,medium,5,1,6,1,2,5,60,[object Object],Master Set: Rise of the Valkyrie,1
+Sgt. Drake Alexander (1),jandar,human,unique hero,soldier,valiant,medium,5,5,5,1,6,3,110,[object Object],Master Set: Rise of the Valkyrie,1
+Syvarris,ullar,elf,unique hero,archer,precise,medium,5,4,5,9,3,2,100,[object Object],Master Set: Rise of the Valkyrie,1
+Krav Maga Agents,vydar,human,unique squad,agents,tricky,medium,4,1,6,7,3,3,100,[object Object],Master Set: Rise of the Valkyrie,1
+Tarn Viking Warriors,jandar,human,unique squad,warriors,wild,medium,5,1,4,1,4,4,50,[object Object],Master Set: Rise of the Valkyrie,1
+Agent Carr,vydar,human,unique hero,agent,tricky,medium,5,4,5,6,2,4,100,[object Object],Master Set: Rise of the Valkyrie,1
+Zettian Guards,utgar,soulborg,unique squad,guards,precise,medium,5,1,4,7,2,7,70,[object Object],Master Set: Rise of the Valkyrie,1
+Airborne Elite,jandar,human,unique squad,soldiers,disciplined,medium,5,1,4,8,3,2,110,[object Object],Master Set: Rise of the Valkyrie,1
+Finn the Viking Champion,jandar,human,unique hero,champion,valiant,medium,5,4,5,1,3,4,80,[object Object],Master Set: Rise of the Valkyrie,1
+Thorgrim the Viking Champion,jandar,human,unique hero,champion,valiant,medium,5,4,5,1,3,4,80,[object Object],Master Set: Rise of the Valkyrie,1
+Raelin the Kyrie Warrior (1),jandar,kyrie,unique hero,warrior,merciful,medium,5,5,6,1,3,3,80,[object Object],Master Set: Rise of the Valkyrie,1
+Mimring,utgar,dragon,unique hero,beast,ferocious,huge,9,5,6,1,4,3,150,[object Object],undefined,2
+Ne-gok-sa,utgar,marro,unique hero,warlord,tricky,medium,5,5,5,1,3,6,90,[object Object],Master Set: Rise of the Valkyrie,1
+Grimnak,utgar,orc,unique hero,champion,ferocious,huge,11,5,5,1,2,4,120,[object Object],Master Set: Rise of the Valkyrie,2
+Omnicron Snipers,jandar,soulborg,common squad,snipers,precise,medium,5,1,5,7,1,3,100,[object Object],Wave 1: Malliddon's Prophecy,1
+Taelord the Kyrie Warrior,utgar,kyrie,unique hero,snipers,precise,medium,5,1,5,1,3,3,180,[object Object],Wave 1: Malliddon's Prophecy,1
+Kelda the Kyrie Warrior,jandar,kyrie,unique hero,warrior,merciful,medium,5,5,6,1,2,3,80,[object Object],Wave 1: Malliddon's Prophecy,1
+Marcus Decimus Gallus,einar,human,unique hero,warlord,disciplined,medium,5,6,5,1,3,3,100,[object Object],Wave 1: Malliddon's Prophecy,1
+Venoc Warlord,ullar,viper,unique hero,warlord,relentless,medium,6,6,7,1,4,3,120,[object Object],Wave 1: Malliddon's Prophecy,1
+Tornak,utgar,orc,unique hero,champion,tricky,large,6,3,7,1,4,5,100,[object Object],Wave 1: Malliddon's Prophecy,2
+Venoc Vipers,ullar,viper,common squad,scouts,relentless,medium,5,1,7,1,3,0,40,[object Object],Wave 1: Malliddon's Prophecy,1
+Roman Legionnaires,einar,human,common squad,soldiers,disciplined,medium,5,1,4,1,3,2,50,[object Object],Wave 1: Malliddon's Prophecy,1
+Roman Archers,einar,human,common squad,archers,disciplined,medium,5,1,4,6,2,1,55,[object Object],Wave 1: Malliddon's Prophecy,1
+Arrow Gruts,utgar,orc,common squad,archers,wild,medium,4,1,6,6,1,1,40,[object Object],Wave 1: Malliddon's Prophecy,1
+Blade Gruts,utgar,orc,common squad,warriors,wild,medium,4,1,6,1,2,2,40,[object Object],Wave 1: Malliddon's Prophecy,1
+Khosumet the Darklord,utgar,wolf,unique hero,darklord,relentless,medium,5,3,6,1,3,3,75,[object Object],Wave 2: Utgar's Rage,1
+Sir Denrick,jandar,human,unique hero,champion,valiant,medium,5,5,5,1,4,4,100,[object Object],Wave 2: Utgar's Rage,1
+Me-Burq-Sa,utgar,marro,unique hero,warlord,wild,large,7,3,8,6,3,3,50,[object Object],Wave 2: Utgar's Rage,2
+Krug,utgar,troll,unique hero,beast,relentless,medium,5,5,5,1,4,4,100,[object Object],Wave 2: Utgar's Rage,1
+Minions of Utgar,utgar,kyrie,common squad,minions,relentless,medium,6,1,4,1,2,6,110,[object Object],Wave 2: Utgar's Rage,1
+Marro Drones,utgar,marro,common squad,drones,wild,medium,5,1,6,1,3,3,50,[object Object],Wave 2: Utgar's Rage,1
+Knights of Weston,jandar,human,common squad,knights,valiant,medium,5,1,4,1,3,4,70,[object Object],Wave 2: Utgar's Rage,1
+Swog Rider,utgar,orc,common hero,beast,wild,large,6,1,8,1,3,3,25,[object Object],Wave 2: Utgar's Rage,2
+4th Massachusetts Line,jandar,human,common squad,soldiers,valiant,medium,5,1,5,6,2,2,70,[object Object],Wave 2: Utgar's Rage,1
+Anubian Wolves,utgar,wolves,common squad,devourers,relentless,medium,5,1,6,1,4,4,75,[object Object],Wave 2: Utgar's Rage,1
+Saylind the Kyrie Warrior,ullar,kyrie,unique hero,warrior,valiant,medium,5,5,6,1,3,3,80,[object Object],Wave 3: Jandar's Oath,1
+Johnny 'Shotgun' Sullivan,jandar,human,unique hero,lawman,tricky,medium,5,5,5,7,2,2,65,[object Object],Wave 3: Jandar's Oath,1
+Deathwalker 7000,utgar,soulborg,unique hero,deathwalker,tricky,medium,5,1,6,1,3,7,100,[object Object],Wave 3: Jandar's Oath,1
+Concan the Kyrie Warrior,jandar,kyrie,unique hero,warrior,valiant,medium,5,5,5,1,4,4,80,[object Object],Wave 3: Jandar's Oath,1
+Alastair MacDirk,jandar,human,unique hero,champion,valiant,medium,5,6,5,1,5,3,110,[object Object],Wave 3: Jandar's Oath,1
+Sentinels of Jandar,jandar,kyrie,common squad,sentinels,valiant,medium,6,1,4,1,3,4,110,[object Object],Wave 3: Jandar's Oath,1
+Marrden Hounds,utgar,wulsinu,common squad,hunters,wild,large,4,1,1,1,3,5,90,[object Object],Wave 3: Jandar's Oath,2
+Gorillinators,vydar,primadon,common squad,agents,tricky,medium,5,1,7,6,2,1,90,[object Object],Wave 3: Jandar's Oath,1
+Microcorp Agents,vydar,human,common squad,agents,tricky,medium,5,1,5,7,2,3,100,[object Object],Wave 3: Jandar's Oath,1
+MacDirk Warriors,jandar,human,common squad,warriors,wild,medium,5,1,5,1,2,2,80,[object Object],Wave 3: Jandar's Oath,1
+Shaolin Monks,ullar,human,common squad,monks,disciplined,medium,5,1,6,1,3,3,80,[object Object],Wave 3: Jandar's Oath,1
+Major X17,vydar,soulborg,unique hero,major,disciplined,medium,5,5,5,1,4,3,100,[object Object],Wave 4: Zanafor's Discovery,1
+Valguard,einar,human,unique hero,warlord,wild,medium,5,7,5,1,2,4,110,[object Object],Wave 4: Zanafor's Discovery,1
+Parmenio,einar,human,unique hero,warlord,disciplined,medium,5,5,5,1,3,3,90,[object Object],Wave 4: Zanafor's Discovery,1
+Morsbane,ullar,elf,unique hero,wizard,tricky,medium,5,6,5,1,3,2,100,[object Object],Wave 4: Zanafor's Discovery,1
+Sudema,vydar,undead,unique hero,queen,wild,medium,5,4,5,1,2,3,140,[object Object],Wave 4: Zanafor's Discovery,1
+James Murphy,vydar,human,unique hero,lawman,disciplined,medium,4,5,5,7,2,2,75,[object Object],Wave 4: Zanafor's Discovery,1
+Guilty McCreech,einar,human,unique hero,lawman,wild,medium,4,2,5,7,2,2,30,[object Object],Wave 4: Zanafor's Discovery,1
+Deadeye Dan,ullar,human,unique hero,sniper,precise,medium,5,3,5,10,1,2,60,[object Object],Wave 4: Zanafor's Discovery,1
+Tagawa Samurai,einar,human,unique squad,samurai,disciplined,medium,5,4,5,1,3,5,120,[object Object],Wave 4: Zanafor's Discovery,1
+Aubrien Archers,ullar,elves,common squad,archers,precise,medium,4,1,5,7,2,2,70,[object Object],Wave 4: Zanafor's Discovery,1
+Gladiatrons,vydar,soulborg,common squad,hunters,disciplined,medium,5,1,5,1,2,3,80,[object Object],Wave 4: Zanafor's Discovery,1
+Sacred Band,einar,human,common squad,soldiers,disciplined,medium,5,4,4,1,3,2,50,[object Object],Wave 4: Zanafor's Discovery,1
+Armoc Vipers,ullar,viper,common squad,protectors,relentless,medium,5,1,7,1,3,3,65,[object Object],Wave 4: Zanafor's Discovery,1
+Brunak,utgar,trolticor,unique hero,mount,ferocious,huge,8,3,6,1,4,7,110,[object Object],Giant Wave 1: Orms Return,2
+Charos,ullar,dragon,unique hero,king,valiant,huge,9,9,5,1,5,5,210,[object Object],Giant Wave 1: Orms Return,1
+Deathwalker 8000,utgar,soulborg,unique hero,deathwalker,precise,large,7,1,5,7,3,8,130,[object Object],Giant Wave 1: Orms Return,1
+Dund,vydar,doggin,unique hero,hunter,tricky,large,4,4,6,1,3,5,110,[object Object],Giant Wave 1: Orms Return,2
+Su-Bak-Na,utgar,marro,unique hero,hivelord,tricky,huge,12,5,6,1,7,3,160,[object Object],Giant Wave 2: Raknar's Vision,2
+Braxas,vydar,dragon,unique hero,queen,wild,huge,13,8,6,1,5,3,210,[object Object],Giant Wave 2: Raknar's Vision,2
+Jotun,ullar,giant,unique hero,warrior,wild,huge,10,7,6,1,8,4,225,[object Object],Giant Wave 2: Raknar's Vision,2
+Major Q9,vydar,soulborg,unique hero,major,precise,large,7,4,5,8,4,7,180,[object Object],Giant Wave 2: Raknar's Vision,2
+Nilfheim,jandar,dragon,unique hero,king,ferocious,huge,12,6,6,1,5,4,185,[object Object],Giant Wave 2: Raknar's Vision,2
+Theracus,ullar,gryphillin,unique hero,scout,disciplined,large,5,3,7,1,3,3,40,[object Object],Giant Wave 2: Raknar's Vision,2
+Gurei-Oni,einar,ogre,unique hero,guard,tormenting,large,7,4,5,1,4,4,100,[object Object],Giant Wave 3: Aquilla's Alliance,2
+Sujoah,aquilla,insect,unique hero,predator,relentless,huge,6,6,8,1,4,4,185,[object Object],Giant Wave 3: Aquilla's Alliance,2
+Wo-Sa-Ga,utgar,marro,unique hero,hivelord,terrifying,huge,10,4,6,1,6,4,135,[object Object],Giant Wave 3: Aquilla's Alliance,2
+Zelrig,einar,dragon,unique hero,emperor,disciplined,huge,11,6,6,1,4,4,185,[object Object],Giant Wave 3: Aquilla's Alliance,2
+Zetacron,jandar,soulborg,unique hero,scout,precise,large,7,2,5,8,2,4,60,[object Object],Giant Wave 3: Aquilla's Alliance,2
+Raelin the Kyrie Warrior (2),jandar,kyrie,unique hero,warrior,resolute,medium,5,5,6,1,3,3,120,[object Object],Master Set: Swarm of the Marro,1
+Sgt. Drake Alexander (2),jandar,human,unique hero,soldier,valiant,medium,5,6,6,1,6,4,170,[object Object],Master Set: Swarm of the Marro,1
+Sonlen,ullar,elf,unique hero,archmage,tricky,medium,5,6,5,6,4,3,160,[object Object],Master Set: Swarm of the Marro,1
+Major Q10,vydar,soulborg,unique hero,major,merciful,large,6,4,5,8,4,5,150,[object Object],Master Set: Swarm of the Marro,2
+Shiori,einar,human,unique hero,ninja,tricky,medium,4,3,6,1,3,3,60,[object Object],Master Set: Swarm of the Marro,1
+Marro Drudge,utgar,marro,common squad,hunters,wild,medium,4,1,5,5,2,2,50,[object Object],Master Set: Swarm of the Marro,1
+Marro Hive,utgar,marro,unique hero,hive,terrifying,huge,17,6,0,1,1,2,160,[object Object],Master Set: Swarm of the Marro,6
+Marrden Nagrubs,utgar,nagrubs,common squad,guards,loyal,small,3,1,6,1,2,2,30,[object Object],Master Set: Swarm of the Marro,1
+Marro Stingers,utgar,marro,common squad,stingers,wild,medium,4,1,5,5,3,3,60,[object Object],Master Set: Swarm of the Marro,1
+Tor-Kul-Na,utgar,marro,unique hero,hivelord,terrifying,huge,11,6,6,1,6,5,220,[object Object],Master Set: Swarm of the Marro,2
+Ana Karithon,einar,human,unique hero,cleric,merciful,medium,5,5,5,4,2,3,100,[object Object],Master Set: Battle for the Underdark,1
+Tandros Kreel,einar,human,unique hero,fighter,disciplined,medium,5,7,5,5,2,4,120,[object Object],Master Set: Battle for the Underdark,1
+Erevan Sunshadow,jandar,eladrin,unique hero,wizard,precise,medium,5,5,6,1,2,2,80,[object Object],Master Set: Battle for the Underdark,1
+Darrak Ambershard,aquilla,dwarf,unique hero,rogue,tricky,medium,4,4,5,1,4,2,60,[object Object],Master Set: Battle for the Underdark,1
+Pelloth,utgar,drow,unique hero,arachnomancer,devout,medium,5,4,6,5,3,3,100,[object Object],Master Set: Battle for the Underdark,1
+Feral Troll,utgar,troll,uncommon hero,hunter,ferocious,large,7,8,5,1,3,1,90,[object Object],Master Set: Battle for the Underdark,2
+Deepwyrm Drow,utgar,drow,common squad,warriors,tricky,medium,5,1,6,1,3,3,70,[object Object],Master Set: Battle for the Underdark,1
+Nakita Agents,vydar,human,unique squad,agents,tricky,medium,4,1,5,6,3,3,120,[object Object],Wave 5: Thora's Vengeance,1
+Spartacus,einar,human,unique hero,gladiator,rebellious,medium,5,5,5,1,6,4,200,[object Object],Wave 5: Thora's Vengeance,1
+Crixus,einar,human,unique hero,gladiator,rebellious,medium,4,5,5,1,5,3,90,[object Object],Wave 5: Thora's Vengeance,1
+Retiarius,einar,human,unique hero,gladiator,rebellious,medium,5,4,5,1,5,3,90,[object Object],Wave 5: Thora's Vengeance,1
+Ninjas of the Northern Wind,einar,human,unique squad,ninja,disciplined,medium,4,1,6,1,4,3,110,[object Object],Wave 5: Thora's Vengeance,1
+Kozuke Samurai,einar,human,unique squad,samurai,disciplined,medium,4,1,5,1,5,3,100,[object Object],Wave 5: Thora's Vengeance,1
+Blastatrons,vydar,soulborg,common squad,guards,disciplined,medium,4,1,5,7,1,2,60,[object Object],Wave 5: Thora's Vengeance,1
+Death Stalkers,utgar,soulborg,common squad,deathstalkers,wild,large,5,1,7,1,3,5,100,[object Object],Wave 5: Thora's Vengeance,2
+Warriors of Ashra,ullar,elves,common squad,warriors,tricky,medium,4,1,5,1,3,3,50,[object Object],Wave 5: Thora's Vengeance,1
+Deathreavers,utgar,soulborg,common squad,deathreaver,tricky,small,3,1,6,1,1,4,30,[object Object],Wave 5: Thora's Vengeance,1
+Kaemon Awa,einar,human,unique hero,samurai,disciplined,medium,5,4,5,7,4,4,120,[object Object],Wave 6: Dawn of Darkness,1
+Eldgrim the Viking Champion,jandar,human,unique hero,champion,valiant,medium,4,3,5,1,2,2,30,[object Object],Wave 6: Dawn of Darkness,1
+Empress Kiova,einar,kyrie,unique hero,warrior,disciplined,medium,6,5,5,1,3,4,90,[object Object],Wave 6: Dawn of Darkness,1
+Kee-Mo-Shi,utgar,marro,unique hero,warwitch,tricky,medium,6,4,6,1,4,4,130,[object Object],Wave 6: Dawn of Darkness,1
+Runa,utgar,kyrie,unique hero,warrior,tricky,medium,5,5,6,1,3,3,120,[object Object],Wave 6: Dawn of Darkness,1
+Einar Imperium,einar,kyrie,common squad,disciplined,disciplined,medium,5,1,5,1,3,3,140,[object Object],Wave 6: Dawn of Darkness,1
+Tagawa Samurai Archers,einar,human,common squad,samurai,disciplined,medium,5,1,5,6,2,3,65,[object Object],Wave 6: Dawn of Darkness,1
+Heavy Gruts,utgar,orc,common squad,warriors,wild,medium,4,1,5,1,3,3,70,[object Object],Wave 6: Dawn of Darkness,1
+Shades of Bleakwoode,utgar,undead,common squad,devourers,terrifying,medium,5,1,7,1,2,4,100,[object Object],Wave 6: Dawn of Darkness,1
+Zombies of Morindan,utgar,undead,common squad,savages,terrifying,medium,5,1,4,1,2,3,60,[object Object],Wave 6: Dawn of Darkness,1
+Cyprien Esenwein,utgar,undead,unique hero,lord,terrifying,medium,4,6,6,1,3,4,150,[object Object],Wave 7: Fields of Valor,1
+Sonya Esenwein,utgar,undead,unique hero,lady,terrifying,medium,4,3,6,1,3,3,45,[object Object],Wave 7: Fields of Valor,1
+Warden 816,utgar,soulborg,unique hero,warden,tricky,medium,4,2,5,7,3,6,90,[object Object],Wave 7: Fields of Valor,1
+Isamu,utgar,human,unique hero,ninja,disciplined,medium,4,1,6,1,3,1,10,[object Object],Wave 7: Fields of Valor,1
+Kyntela Gwyn,ullar,elf,unique hero,wizard,valiant,medium,4,2,5,1,2,2,20,[object Object],Wave 7: Fields of Valor,1
+Iskra Esenwein,utgar,undead,unique hero,duchess,terrifying,medium,4,4,6,1,3,3,50,[object Object],Wave 7: Fields of Valor,1
+Rechets of Bogdan,utgar,undead,unique squad,devourers,terrifying,medium,4,1,6,1,3,3,50,[object Object],Wave 7: Fields of Valor,1
+Marcu Esenwein,utgar,undead,unique hero,devourer,terrifying,medium,4,6,7,1,4,1,20,[object Object],Wave 7: Fields of Valor,1
+Ashigaru Harquebus,einar,human,common squad,ashigaru,disciplined,medium,5,1,5,6,2,1,60,[object Object],Wave 7: Fields of Valor,1
+Ashigaru Yari,einar,human,common squad,ashigaru,disciplined,medium,5,1,5,1,2,1,40,[object Object],Wave 7: Fields of Valor,1
+Templar Cavalry,jandar,human,common squad,knights,valiant,large,6,1,8,1,3,3,120,[object Object],Wave 7: Fields of Valor,2
+Sir Dupuis,jandar,human,unique hero,knight,valiant,large,6,6,8,1,4,3,150,[object Object],Wave 8: Defenders of Kinsland,2
+Moriko,ullar,human,unique hero,ninja,disciplined,medium,4,4,6,1,4,4,110,[object Object],Wave 8: Defenders of Kinsland,1
+Kato Katsuro,einar,human,unique hero,daimyo,disciplined,medium,5,5,6,1,4,4,200,[object Object],Wave 8: Defenders of Kinsland,1
+Otonashi,vydar,human,unique hero,ninja,tricky,medium,4,1,6,1,2,3,10,[object Object],Wave 8: Defenders of Kinsland,1
+Chardris,ullar,elf,unique hero,wizard,valiant,medium,5,6,5,1,3,2,90,[object Object],Wave 8: Defenders of Kinsland,1
+Ulginesh,ullar,elf,unique hero,wizard,tricky,large,6,5,7,6,3,3,150,[object Object],Wave 8: Defenders of Kinsland,2
+Jorhdawn,ullar,elf,unique hero,wizard,valiant,medium,4,6,5,1,3,2,100,[object Object],Wave 8: Defenders of Kinsland,1
+Emirroon,ullar,elf,unique hero,wizard,tricky,medium,5,5,5,1,3,3,80,[object Object],Wave 8: Defenders of Kinsland,1
+Arkmer,ullar,elf,unique hero,wizard,tricky,medium,5,3,5,5,4,2,50,[object Object],Wave 8: Defenders of Kinsland,1
+10th Regiment of Foot,einar,human,common squad,soldiers,disciplined,medium,5,1,5,6,2,2,75,[object Object],Wave 8: Defenders of Kinsland,1
+Wolves of Badru,utgar,wolves,common squad,hunters,relentless,small,3,1,6,1,3,3,80,[object Object],Wave 8: Defenders of Kinsland,1
+Grok Riders,utgar,marro,common squad,hunters,menacing,large,5,1,7,1,3,3,130,[object Object],Wave 8: Defenders of Kinsland,2
+Atlaga the Kyrie Warrior,ullar,kyrie,unique hero,warrior,confident,medium,6,4,5,5,4,3,90,[object Object],Wave 9: Blackmoon Siege,1
+Migol Ironwill,aquilla,dwarf,unique hero,leader,resolute,small,3,5,5,1,2,4,110,[object Object],Wave 9: Blackmoon Siege,1
+Tul-Bak-Ra,utgar,marro,unique hero,overlord,terrifying,medium,5,6,5,1,4,4,120,[object Object],Wave 9: Blackmoon Siege,1
+Brave Arrow,aquilla,human,unique hero,tribesman,fearsome,medium,5,4,5,1,4,3,50,[object Object],Wave 9: Blackmoon Siege,1
+Kumiko,jandar,human,unique hero,ninja,tricky,medium,4,3,6,1,3,5,80,[object Object],Wave 9: Blackmoon Siege,1
+Marro Dividers,utgar,marro,common squad,dividers,wild,medium,4,1,5,1,3,3,50,[object Object],Wave 9: Blackmoon Siege,1
+Protectors of Ullar,ullar,kyrie,common squad,protectors,confident,medium,6,1,5,5,3,3,110,[object Object],Wave 9: Blackmoon Siege,1
+The Axe Grinders of Burning Forge,aquilla,dwarves,common squad,fighter,fearless,small,3,1,4,1,3,3,70,[object Object],Wave 9: Blackmoon Siege,1
+Omnicron Repulsors,jandar,soulborg,common squad,repulsors,precise,small,3,1,5,7,1,3,40,[object Object],Wave 9: Blackmoon Siege,1
+Mohican River Tribe,aquilla,human,common squad,scouts,fearsome,medium,5,1,5,6,2,1,70,[object Object],Wave 9: Blackmoon Siege,1
+Capuan Gladiators,einar,human,common squad,gladiators,rebellious,medium,5,1,5,1,3,3,70,[object Object],Wave 9: Blackmoon Siege,1
+Sir Hawthorne,utgar,human,unique hero,champion,relentless,medium,5,6,5,1,4,4,90,[object Object],Wave 10: Valkrill's Gambit,1
+Nerak the Glacian Swog Rider,utgar,orc,unique hero,champion,wild,large,6,3,8,1,3,3,50,[object Object],Wave 10: Valkrill's Gambit,2
+Elite Onyx Vipers,ullar,marro,unique squad,scouts,precise,medium,5,1,7,1,3,2,100,[object Object],Wave 10: Valkrill's Gambit,1
+Granite Guardians,aquilla,elementar,common squad,guards,dauntless,medium,5,1,3,1,3,5,100,[object Object],Wave 10: Valkrill's Gambit,1
+Quasatch Hunters,aquilla,quasatch,common squad,hunters,ferocious,medium,5,1,5,1,3,4,100,[object Object],Wave 10: Valkrill's Gambit,1
+Earth Elemental,einar,elemental,common hero,construct,fearless,medium,5,1,4,1,4,4,35,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Fire Elemental,utgar,elemental,common hero,construct,mindless,medium,4,1,5,1,4,4,35,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Water Elemental,aquilla,elemental,common hero,construct,resolute,medium,4,1,4,5,3,4,30,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Air Elemental,jandar,elemental,common hero,construct,relentless,medium,4,1,5,1,3,3,30,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Wyvern,aquilla,wyvern,uncommon hero,predator,ferocious,large,7,4,7,1,4,4,100,[object Object],Wave 11: Champions of the Forgotten Realms,2
+Greenscale Warriors,ullar,lizardfolkd,common squad,warriors,loyal,medium,5,1,6,1,2,3,60,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Drow Chainfighter,utgar,drow,common hero,guard,wild,medium,4,1,6,1,4,4,25,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Greater Ice Elemental,jandar,elemental,uncommon hero,construct,dauntless,huge,8,4,5,1,6,4,130,[object Object],Wave 11: Champions of the Forgotten Realms,2
+Phantom Knights,utgar,undead,common squad,knights,tormented,medium,5,1,6,1,3,4,70,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Sahuagin Raider,utgar,sahuagin,common hero,raider,ferocious,medium,4,1,6,1,2,3,25,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Fen Hydra,utgar,hydra,uncommon hero,marauder,ferocious,huge,8,4,5,1,4,6,120,[object Object],Wave 11: Champions of the Forgotten Realms,2
+Estivara,utgar,drow,unique hero,arachnomancer,tricky,medium,4,4,5,1,3,3,80,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Torin,utgar,human,unique hero,hewer,terrifying,large,7,5,5,1,4,4,120,[object Object],Wave 11: Champions of the Forgotten Realms,2
+Sharwin Wildborn,ullar,eladrin,unique hero,battle mage,tricky,medium,5,5,6,1,2,3,110,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Brandis Skyhunter,ullar,half-elf,unique hero,ranger,precise,medium,5,5,6,5,3,3,90,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Mogrimm Forgehammer,aquilla,dwarf,unique hero,warlord,inspiring,medium,4,6,5,1,4,2,120,[object Object],Wave 11: Champions of the Forgotten Realms,1
+Iron Golem,vydar,golem,uncommon hero,construct,mindless,large,7,3,5,1,6,6,100,[object Object],Wave 12: Warriors of Eberron,1
+Black Wyrmling,vydar,dragon,common hero,wyrmling,wild,small,3,1,6,1,3,3,30,[object Object],Wave 12: Warriors of Eberron,1
+White Wyrmling,jandar,dragon,common hero,wyrmling,ferocious,small,3,1,6,1,3,4,30,[object Object],Wave 12: Warriors of Eberron,1
+Blue Wyrmling,aquilla,dragon,common hero,wyrmling,precise,small,3,1,5,1,4,3,35,[object Object],Wave 12: Warriors of Eberron,1
+Red Wyrmling,einar,dragon,common hero,wyrmling,disciplined,small,3,1,5,1,3,3,30,[object Object],Wave 12: Warriors of Eberron,1
+Ogre Warhulk,utgar,ogre,uncommon hero,warhulk,wild,large,7,8,5,1,5,3,150,[object Object],Wave 12: Warriors of Eberron,2
+Goblin Cutters,utgar,goblin,common squad,cutters,skittish,small,3,1,6,1,2,1,50,[object Object],Wave 12: Warriors of Eberron,1
+Warforged Soldiers,vydar,warforged,common squad,soldiers,loyal,medium,5,1,5,1,3,2,80,[object Object],Wave 12: Warriors of Eberron,1
+Mind Flayer Mastermind,utgar,mind flayer,uncommon hero,psychic,terrifying,medium,5,4,5,1,4,4,100,[object Object],Wave 12: Warriors of Eberron,1
+Werewolf Lord,utgar,lycanthrope,uncommon hero,darklord,relentless,huge,9,6,6,1,4,4,140,[object Object],Wave 12: Warriors of Eberron,2
+Kurrok the Elementalist,utgar,hobgoblin,unique hero,sorceror,devout,medium,5,5,5,1,3,3,120,[object Object],Wave 12: Warriors of Eberron,1
+Rhogar Dragonspine,aquilla,dragonspine,unique hero,paladin,ferocious,medium,5,6,5,1,4,4,110,[object Object],Wave 12: Warriors of Eberron,1
+Shurrak,utgar,giant,unique hero,warrior,militiaristic,huge,8,6,6,1,5,4,160,[object Object],Wave 12: Warriors of Eberron,2
+Heirloom,vydar,warforged,unique hero,wizard,tricky,medium,5,4,5,1,4,2,90,[object Object],Wave 12: Warriors of Eberron,1
+Mika Connour,vydar,human,unique hero,shadow assassin,tricky,medium,5,5,6,1,4,4,110,[object Object],Wave 12: Warriors of Eberron,1
+Death Chasers of Thesk,valkrill,orcs,common squad,hunters,wild,medium,5,1,5,1,4,2,55,[object Object],Wave 13: Moltenclaw's Invasion,1
+Horned Skull Brutes,valkrill,goblin,common squad,brutes,merciless,medium,5,1,5,1,4,4,75,[object Object],Wave 13: Moltenclaw's Invasion,1
+Mezzodemon Warmongers,valkrill,demons,common squad,warmongers,ferocious,medium,5,1,5,4,3,3,65,[object Object],Wave 13: Moltenclaw's Invasion,1
+Death Knights of Valkrill,valkrill,undead,common squad,death knights,tormented,medium,5,1,5,1,2,5,60,[object Object],Wave 13: Moltenclaw's Invasion,1
+Ogre Pulverizer,utgar,ogre,uncommon hero,pulverizer,wild,large,6,6,5,1,4,3,100,[object Object],Wave 13: Moltenclaw's Invasion,2
+Frost Giant of Morh,utgar,giant,uncommon hero,brute,fearless,huge,9,6,5,1,4,4,140,[object Object],Wave 13: Moltenclaw's Invasion,1
+Ice Troll Berserker,utgar,troll,uncommon hero,beast,ferocious,large,5,4,5,1,5,2,85,[object Object],Wave 13: Moltenclaw's Invasion,1
+Master of the Hunt,einar,firbolg,unique hero,hunter,bold,large,6,6,6,4,4,4,140,[object Object],Wave 13: Moltenclaw's Invasion,1
+Eltahale,jandar,goliath,unique hero,warden,fearless,medium,5,6,6,1,5,4,140,[object Object],Wave 13: Moltenclaw's Invasion,1
+Siege,vydar,warforged,unique hero,juggernaut,stoic,medium,5,5,5,1,5,5,120,[object Object],Wave 13: Moltenclaw's Invasion,1
+Evar Scarcarver,vydar,human,unique hero,frostrager,reckless,medium,5,5,5,4,2,3,110,[object Object],Wave 13: Moltenclaw's Invasion,1
+Moltenclaw,utgar,dragon,unique hero,prince,fearless,huge,8,6,5,1,5,3,170,[object Object],Wave 13: Moltenclaw's Invasion,1
+Dumutef Guard,utgar,fiantooth,common hero,guard,relentless,large,7,1,6,1,4,4,25,[object Object],Terrain Set 1: Road to the Forgotten Forest,2
+Obsidian Guards,utgar,moltarn,common squad,guards,ferocious,medium,5,1,4,1,4,4,100,[object Object],Terrain Set 2: Volcarren Wasteland,1
+Dzu-Teh,jandar,Dzu-Teh,common squad,hunters,wild,medium,6,1,5,1,4,3,75,[object Object],Terrain Set 3: Thaelenk Tundra,1
+Fyorlag Spiders,aquilla,scouts,common squad,wild,merciful,small,2,1,7,1,2,2,40,[object Object],Terrain Set 4: Ticalla Jungle,1
+Master Win Chiu Woo,aquilla,human,unique hero,monk,disciplined,medium,5,5,5,1,4,4,140,[object Object],Special Release,1
+Agent Skahen,vydar,human,unique hero,agent,tricky,medium,4,3,6,7,3,3,120,[object Object],Special Release,1
+Sir Gilbert,jandar,human,unique hero,champion,valiant,medium,5,6,5,1,3,4,105,[object Object],Special Release: Crest of the Valkyrie,1
+Acolarh,ullar,elf,unique hero,wizard,valiant,medium,5,5,5,1,3,2,110,[object Object],Special Release: Crest of the Valkyrie,1
+Laglor,vydar,primadon,unique hero,alphallon,precise,medium,5,6,5,7,3,3,110,[object Object],Special Release: Crest of the Valkyrie,1
+Hatamoto Taro,einar,human,unique hero,samurai,disciplined,medium,5,5,5,1,2,2,130,[object Object],Special Release: Crest of the Valkyrie,1
+Ornak,utgar,orc,unique hero,champion,wild,medium,5,4,6,1,3,3,100,[object Object],Special Release: Crest of the Valkyrie,1
+Samuel Brown,jandar,human,unique hero,patriot,valiant,medium,5,4,5,7,3,3,60,[object Object],Special Release: Crest of the Valkyrie,1
