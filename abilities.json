@@ -6,6 +6,38 @@
     "defense": [
     ],
     "utility": [
+        {
+            "name": "Abominable",
+            "description": "When you have all 4 Growing Freeze markers, add 2 to attack move & attack and add 2 auto-shields to whatever was rolled."
+        },
+        {
+            "name": "Aqua Armor",
+            "description": "Krav Maga Troopers do not have to stop their movement when entering a water space. Add 2 to a Krav Maga Trooper's defense while he is on a water space. When a Krav Maga Trooper starts its turn on a water space, add 1 to its movement for that turn."
+        },
+        {
+            "name": "Atk Up/Move Up",
+            "description": "If Fendrill begins its turn unengaged, add 2 to its Move value this turn and add 1 to its Attack value this turn."
+        },
+        {
+            "name": "Blood Rage",
+            "description": "Add 1 to the Legendary Feral Troll's* Move and Attack values for each wound marker he has, for a maximum of +3."
+        },
+        {
+            "name": "Ogre and Sand",
+            "description": "When starting a turn on sand you will get 3 additional movement. If you attack any figure that is on a sand tile, add 3 to your attack roll."
+        },
+        {
+            "name": "Shield Charge",
+            "description": "When a Legionnaire of Tarn rolls defense dice against an attacking figure who is not adjacent, if Legionnaires of Tarn receive no wounds, you may move 3 spaces with that figure. A engaged Legionnaire of Tarn moved by this power, they take no leaving engagement attacks."
+        },
+        {
+            "name": "Smoke Cloud",
+            "description": "If any Blood Mist Ninja is attacked and at least 1 skull is rolled, roll the 20-sided die to vanish. If you roll 1-12, roll defense dice normally. If you roll a 13 or higher, that Blood Mist Ninja takes no damage and may immediately move up to 4 spaces. Blood Mist Ninjas can vanish only if they end their vanishing move not adjacent to any enemy figures."
+        },
+        {
+            "name": "Titan's Fury",
+            "description": "If this Ancient Earth Elemental begins its turn unengaged, add 3 to its Move value this turn. If it begins its turn engaged, add 3 to its Attack value this turn."
+        }
     ],
     "other": [
         {
